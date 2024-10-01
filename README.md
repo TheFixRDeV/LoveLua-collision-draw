@@ -14,7 +14,7 @@ This project is a drawing tool developed with Love2D, allowing users to create a
 - **Object Manipulation**: Select and move objects using `W`, `A`, `S`, `D`.
 - **Object Scaling**: Hold `Shift` + `W`, `A`, `S`, `D` to scale selected objects.
 - **Object Cloning**: `C` Quickly clone selected object.
-- **Object Delete**: `D` Quickly delete selected object.
+- **Object Delete**: `X` Quickly delete selected object.
 - **Movable Camera**: Hold `Right Mouse`Navigate the canvas by moving the camera.
 - **Data Loading**: Loads objects from a text file at startup.
 
