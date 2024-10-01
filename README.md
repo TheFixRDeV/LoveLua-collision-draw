@@ -8,6 +8,7 @@ This project is a drawing tool developed with Love2D, allowing users to create a
 
 ## Features
 
+- **Auto Setup World**: Detect image size to create world space limits. If it's larger than the resolution, allows moving the camera with the right mouse button around the world.
 - **Save all**: save all volumes inside volumes.txt with id (automatic time to save, each time create, delete or quit)
 - **Shape Drawing**: Create rectangles 2x (left mouse click) and circles 2x (right mouse click).
 - **Object Manipulation**: Select and move objects using `W`, `A`, `S`, `D`.
@@ -31,6 +32,7 @@ This project is a drawing tool developed with Love2D, allowing users to create a
 
 - Enhance the graphical interface.
 - Improve file management and save options.
+- zoom in, zoom out
 - Add new shapes and functionalities.
 - Add Grab and Move Objects
 - Configuration menu
